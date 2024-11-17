@@ -1,4 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+### Name: Sanjay K
+### Reg No: 212223220094
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
